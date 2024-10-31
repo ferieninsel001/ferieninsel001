@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ferieninsel001
+- 👀 I’m interested in GUI development
+- 🌱 I’m currently learning Python, Flutter and Dart
+- 📫 How to reach me: fatales.waivers0e@icloud.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Strawberry are not fruit
